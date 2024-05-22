@@ -3,7 +3,7 @@ One of my favorite pastimes includes learning and solving new Leetcode problems!
 
 So, whether you are preparing for a technical interview or just looking to sharpen your programming skills, feel free to use this resource to find new problems or different approaches!
 
-To learn more, feel free to contact me at 11.henrybliu@gmail.com! Happy coding!
+To learn more, feel free to contact me at gsahoo@ucsd.edu! Happy coding!
 
 <h2 style="text-align: center;">
 
