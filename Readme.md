@@ -12,7 +12,7 @@ To learn more, feel free to contact me at gsahoo@ucsd.edu! Happy coding!
 </h2>
 
 <details>
-<summary>  Arrays & Hashing </summary>
+[comment]:<summary>  Arrays & Hashing </summary>
 
 | # | Difficulty | Problem | My Solution |
 | :---: | :---: | :----: | :---: |
@@ -50,7 +50,7 @@ To learn more, feel free to contact me at gsahoo@ucsd.edu! Happy coding!
 | 930 | Medium | [Binary Subarrays With Sum](https://leetcode.com/problems/binary-subarrays-with-sum/description/?envType=daily-question&envId=2024-03-14) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/930.py) |
 | 525 | Medium | [Contiguous Array](https://leetcode.com/problems/contiguous-array/description/?envType=daily-question&envId=2024-03-16) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/525.py) |
 
-</details>
+[comment]:</details>
 
 ---
 
