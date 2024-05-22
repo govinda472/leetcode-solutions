@@ -11,8 +11,8 @@ To learn more, feel free to contact me at gsahoo@ucsd.edu! Happy coding!
 
 </h2>
 
-<details>
-[comment]:<summary>  Arrays & Hashing </summary>
+[comment]:<details>
+<summary>  Arrays & Hashing </summary>
 
 | # | Difficulty | Problem | My Solution |
 | :---: | :---: | :----: | :---: |
