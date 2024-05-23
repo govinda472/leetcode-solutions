@@ -11,6 +11,7 @@ To learn more, feel free to contact me at gsahoo@ucsd.edu! Happy coding!
 
 </h2>
 
+<!---
 <details>
 <summary>  Arrays & Hashing </summary>
 
@@ -393,3 +394,5 @@ To be added
 | 169 | Easy | [Majority Element](https://leetcode.com/problems/majority-element/description/?envType=daily-question&envId=2024-02-12) | [python3](https://github.com/henrybliu/Leetcode/blob/main/solutions/169.py) |
 
 </details>
+
+-->
