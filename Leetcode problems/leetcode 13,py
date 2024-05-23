@@ -1,0 +1,20 @@
+class Solution:
+    def romanToInt(self, s: str) -> int:
+        c=["I","V","X","L","C","D","M"]
+        v=[1,5,10,50,100,500,1000]
+        sum=0
+        count=0
+        while count<len(s)-1:
+            curr=c.index(s[count])
+            curr_next=c.index(s[count+1])
+            if curr>curr_next:
+                sum=sum+v[curr]
+            elif curr<curr_next:
+                sum=sum+v[curr_next]-v[curr]
+                count=count+1
+            else:
+                sum=sum+v[curr]
+            count=count+1
+        if count<len(s):
+            sum=sum+v[c.index(s[count])]
+        return sum
