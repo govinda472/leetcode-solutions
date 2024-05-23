@@ -7,7 +7,7 @@ To learn more, feel free to contact me at gsahoo@ucsd.edu! Happy coding!
 
 <h2 style="text-align: center;">
 
-<img src="images/cartoon.webp" alt="cartoon character" title="cartoon character" width="210"/>
+<img src="photos/cartoon.png" alt="cartoon character" title="cartoon character" width="210"/>
 
 </h2>
 
