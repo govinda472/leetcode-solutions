@@ -1,3 +1,4 @@
+#solution 1 using string method
 class Solution:
     def reverse(self, x: int) -> int:
         s=str(x)
@@ -19,3 +20,19 @@ class Solution:
             return int(rev+inv)
         except:
             return 0
+#solution2 using numbers
+class Solution:
+    def reverse(self, x: int) -> int:
+        r=0
+        sign=1
+        if x<0:
+            x=x*-1
+            sign=-1
+        while x>0:
+            curr=x%10
+            r=r*10+curr
+            x=(x-curr)//10
+        if r>(2**31)-1 or r<-(2**31):
+            return 0
+        else:
+            return sign*r
